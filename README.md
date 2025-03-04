@@ -13,7 +13,7 @@ Welcome to **Career Craft AI**, an innovative career development platform built 
 7. [Installation](#installation)
 8. [Usage](#usage)
 9. [Contributing](#contributing)
-10. [License](#license)
+
 11. [Contact](#contact)
 
 ## Introduction
@@ -24,7 +24,7 @@ Welcome to **Career Craft AI**, an innovative career development platform built 
 
 [![Imgur](https://imgur.com/KV7fQ5S.gif)](https://career-craft-ai.vercel.app/)
 
-[Live Demo](https://drive.google.com/file/d/1wKXjPixlj3xqicU3jSDNli_BhRgGd0ta/view?usp=sharing)
+
 
 
 ## 🚀 Problem Statements & Solutions
@@ -80,9 +80,7 @@ Career Craft AI is a **Full-Stack AI Development** project, integrating AI-drive
 ## 🚀 Live Deployment
 Frontend Deployed Link: https://career-craft-ai.vercel.app/
 
-## 📄License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Installation
 
@@ -97,7 +95,7 @@ To get started with **Career Craft AI**, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Yagna123k/CAREER-CRAFT-AI.git
+   git clone https://github.com/mohankumar01012005/CAREER-CRAFT-AI
    cd CAREER-CRAFT-AI
    ```
 
@@ -171,7 +169,7 @@ For any bug reports, feature requests, or suggestions, please open an issue in t
 
 For any questions or inquiries, feel free to reach out to us at:
 
-- Email: kusumanchi.yagna@kalvium.community
-- GitHub: https://github.com/Yagna123k/CAREER-CRAFT-AI
-- Figma: https://www.figma.com/design/Vtjpu6WFRcNrWBlCgzRkqx/Career-craft-AI?node-id=0-1&t=6DTPj6AIhhXD0ulr-1a
+- Email: kumar.mohan@kalvium.community
+- GitHub: https://github.com/mohankumar01012005/CAREER-CRAFT-AI
+
 - Website: [Career Craft AI](https://career-craft-ai.vercel.app/)
